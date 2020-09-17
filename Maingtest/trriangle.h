@@ -5,6 +5,6 @@
 int TypeOfTriangle(int, int, int);
 
 add
-Add
+Addsdasdx
 
 #endif
